@@ -1,6 +1,8 @@
 # Bookreader
 Slicing sentences of a book and push the sentences to discord.
 
+In the same directory, the book should be in book.txt file.
+
 In config.py file, dicord channel and token values should be filled before starting.
 
 I use crontab for run the code every hour.
