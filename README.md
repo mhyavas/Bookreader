@@ -5,7 +5,7 @@ In the same directory, the book should be in book.txt file.
 
 In config.py file, dicord channel and token values should be filled before starting.
 
-I use crontab for run the code every hour.
+I use crontab for running the code every hour.
 
 crontab setup:
 
