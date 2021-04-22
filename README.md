@@ -1,5 +1,5 @@
 # Bookreader
-Slicing sentences of a book according to dots and pushing those sentences to Discord hourly. Sentences are limited with 280 charcters because users can push to Twitter with a No-code platform.
+Slicing sentences of a book according to dots and pushing those sentences to Discord hourly. Sentences are limited with 280 charcters and users can push to Twitter with a No-code platform.
 
 In the same directory, the book should be in book.txt file.
 
